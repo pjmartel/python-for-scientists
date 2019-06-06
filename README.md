@@ -28,11 +28,11 @@ Core Materials:
 
 Activities:
 
-4. [Linear Regression with Confidence Intervals](https://github.com/pjmartel/python-for-scientists/blob/master/linear_regression_with_intervals.ipynb)
-5. [Enzyme kinetics Data Analysis](https://github.com/pjmartel/python-for-scientists/blob/master/Kinetic_data_analysis.ipynb)
-6. [Programmatic Access to the Protein Databank](https://github.com/pjmartel/python-for-scientists/blob/master/Programmatic_Access_PDB.ipynb)
+1. [Linear Regression with Confidence Intervals](https://github.com/pjmartel/python-for-scientists/blob/master/linear_regression_with_intervals.ipynb)
+2. [Enzyme kinetics Data Analysis](https://github.com/pjmartel/python-for-scientists/blob/master/Kinetic_data_analysis.ipynb)
+3. [Programmatic Access to the Protein Databank](https://github.com/pjmartel/python-for-scientists/blob/master/Programmatic_Access_PDB.ipynb)
 
 Other notebooks:
 
-[Reading and Writing Files in the Colab Environment](https://github.com/pjmartel/python-for-scientists/blob/master/Colab_reading_and_writing_files.ipynb)
+1. [Reading and Writing Files in the Colab Environment](https://github.com/pjmartel/python-for-scientists/blob/master/Colab_reading_and_writing_files.ipynb)
 
