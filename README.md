@@ -3,9 +3,21 @@
 Files in this repo are the materials for the "Python for Scientists" introductory Python
 course taught at the University of Algarve in June 3-4 2019.
 They consist of Google Colab noteboks and some datasets to be used with them.
-All notebooks have a top button that will launching and running them in the Google Colab environment.
+
+#### Instructions
+
+1. Use the links below to open a notebook in GitHub
+2. At the document's top there will be an "Open in Colab" button
+3. Make sure your browser is logged in on a Google Account
+4. Press the button, and the notebook will open in the Colab environment
+5. Use the option "Save a Copy in Drive" to sabe a copy of the notebook in your Google Drive
+6. Read the introductory text at the beginning of the notebook
+7. Activate the notebook by pressing the top-right connect buttuon or any cell play button
+8. A warning will pop-up saying the notebook was not authored by Google, just proceed
+9. Go through the notebook, from beginning to end.
+
 (**NOTE:** After opening each notebook in the Colab environment, be sure to leave playground mode by saving a copy
-of the notebook in your Google Drive, or will risk losing all your when closing the browser.) 
+of the notebook in your Google Drive, or you will risk losing all your changes when closing the browser.) 
 
 Core Materials:
 1. [Introduction to Python](https://github.com/pjmartel/python-for-scientists/blob/master/Introduction_to_Python.ipynb)
